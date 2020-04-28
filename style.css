@@ -1,0 +1,47 @@
+#header{
+    text-align: center;
+    background-color:#1c4587;
+    color: #f1f2f4;
+    padding: 1rem;
+}
+
+.titleBar{
+    margin-left: 460px;
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 1em;
+}
+#bodyHeader{
+    margin-left: -30px;
+    text-align: center;
+}
+
+.imageZone{
+    margin-top: -26em;
+    margin-bottom: 14em;
+    margin-right: 4em;
+    padding-left: 1000px;
+}
+
+.imageText{
+      max-width: 65%;
+      margin-top: -1em;
+      text-align: left;
+}
+.bodyMain{
+    display: inline-block;
+    text-align: left;  
+    width: 32%;
+    padding-left: 424px;
+}
+
+.container{
+    column-count: 2;
+    height: 1000px;
+}
+
+.footer{
+    background-color: #1c4587;
+    padding: 12%
+}
