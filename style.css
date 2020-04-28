@@ -6,10 +6,10 @@
 }
 
 .titleBar{
-    margin-left: 460px;
+    margin-left: 400px;
     margin-top: 20px;
     background-color: cornflowerblue;
-    width: 400px;
+    width: 470px;
     height: 1em;
 }
 #bodyHeader{
@@ -18,8 +18,8 @@
 }
 
 .imageZone{
-    margin-top: -26em;
-    margin-bottom: 14em;
+    margin-top: -27em;
+    margin-bottom: 15em;
     margin-right: 4em;
     padding-left: 1000px;
 }
